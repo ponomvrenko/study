@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2921#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:12: error: ';' expected
+            String isWord = scanner.next();
+                  ^
+    1 error
+  time: Tue, 26 Jan 2021 22:11:48 UTC
+record: -1
