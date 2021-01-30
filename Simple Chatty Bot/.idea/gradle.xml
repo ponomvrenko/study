@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic average" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
@@ -22,6 +23,7 @@
             <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Desks" />
             <option value="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Even or odd" />
             <option value="$PROJECT_DIR$/Problems/Extracting a substring" />
             <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
@@ -37,6 +39,7 @@
             <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
             <option value="$PROJECT_DIR$/Problems/Profit" />
             <option value="$PROJECT_DIR$/Problems/Queens" />
+            <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
             <option value="$PROJECT_DIR$/Problems/Squirrels and nuts" />
             <option value="$PROJECT_DIR$/Problems/Tens digit" />

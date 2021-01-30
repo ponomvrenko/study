@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Guest list of a hotel/Tic-Tac-Toe.Problems-Guest_list_of_a_hotel.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Guest list of a hotel/Tic-Tac-Toe.Problems-Guest_list_of_a_hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Guest list of a hotel/Tic-Tac-Toe.Problems-Guest_list_of_a_hotel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Guest list of a hotel/Tic-Tac-Toe.Problems-Guest_list_of_a_hotel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Guest list of a hotel/Tic-Tac-Toe.Problems-Guest_list_of_a_hotel.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Guest list of a hotel/Tic-Tac-Toe.Problems-Guest_list_of_a_hotel.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Tic-Tac-Toe.Problems-Initializing_an_array_of_integers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Tic-Tac-Toe.Problems-Initializing_an_array_of_integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Tic-Tac-Toe.Problems-Initializing_an_array_of_integers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Tic-Tac-Toe.Problems-Initializing_an_array_of_integers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Tic-Tac-Toe.Problems-Initializing_an_array_of_integers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Tic-Tac-Toe.Problems-Initializing_an_array_of_integers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Tic-Tac-Toe.Problems-Initializing_an_array_of_longs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Tic-Tac-Toe.Problems-Initializing_an_array_of_longs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Tic-Tac-Toe.Problems-Initializing_an_array_of_longs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Tic-Tac-Toe.Problems-Initializing_an_array_of_longs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Tic-Tac-Toe.Problems-Initializing_an_array_of_longs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Tic-Tac-Toe.Problems-Initializing_an_array_of_longs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The integer barrier/Tic-Tac-Toe.Problems-The_integer_barrier.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The integer barrier/Tic-Tac-Toe.Problems-The_integer_barrier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The integer barrier/Tic-Tac-Toe.Problems-The_integer_barrier.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The integer barrier/Tic-Tac-Toe.Problems-The_integer_barrier.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The integer barrier/Tic-Tac-Toe.Problems-The_integer_barrier.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The integer barrier/Tic-Tac-Toe.Problems-The_integer_barrier.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Tic-Tac-Toe.Problems-The_sum_of_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Tic-Tac-Toe.Problems-The_sum_of_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Tic-Tac-Toe.Problems-The_sum_of_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Tic-Tac-Toe.Problems-The_sum_of_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Tic-Tac-Toe.Problems-The_sum_of_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Tic-Tac-Toe.Problems-The_sum_of_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+    </modules>
+  </component>
+</project>
